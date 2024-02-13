@@ -4,7 +4,7 @@
 REPO_URL="https://github.com/SickenSquirral/SLPR"
 
 # Directory where the repository is cloned
-REPO_DIR="/SLPR"
+REPO_DIR="/home/orangepi/SLPR"
 
 # File to start
 MAIN_PY_FILE="main.py"
