@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]>      <html class="no-js"> <!--<![endif]-->
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title></title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles/css/style.css')}}">
+    <link rel="stylesheet" href="../static/styles/css/style.css">
+    <add key="webpages:Enabled" value="true" />
+    <script src="https://kit.fontawesome.com/f1dda2e7b7.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
+
+    <div class="content_wrapper">
+        <div id="vehicle-data">
+        </div>
+        <div id="vehicle-plate">
+        </div>
+        <div class="left_border">
+            <div class="gradient_background"></div>
+        </div>
+        <div class="left_border_container">
+            <div class="button_wrapper">
+                <button id="car" class="active"><i class="fa-solid fa-car"></i></button>
+                <button id="dates" > <i class="fa-solid fa-calendar"></i></button>
+                <button id="measurements"><i class="fa-solid fa-ruler"></i></button>
+            </div>
+        </div>
+    </div>
+
+    <div class="reset">
+        <button id="reset_button"><i class="fa-solid fa-arrows-rotate"></i></button>
+    </div>
+
+    <div class="plate">
+        <iframe src="" alt="Norwegian flag"></iframe>
+    </div>
+
+    <div class="video_wrapper">
+        <div class="video_wrapper_hor_gradient"></div>
+        <!-- <div class="video_wrapper_ver_gradient"></div> -->
+        <img class="video_feed" src="http://127.0.0.1:8080/video_feed" />
+    </div>
+
+    <script src="{{ url_for('static', filename='scripts/js/main.js')}}" async defer></script>
+    <script src="{{ url_for('static', filename='scripts/js/vehicle.js')}}" async defer></script>
+</body>
+
+</html>

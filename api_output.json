@@ -1,0 +1,595 @@
+{
+	"kjoretoydataListe": [
+		{
+			"kjoretoyId": {
+				"kjennemerke": "EF 49897",
+				"understellsnummer": "WAUZZZGE3RB001242"
+			},
+			"forstegangsregistrering": {
+				"registrertForstegangNorgeDato": "2023-02-21"
+			},
+			"kjennemerke": [
+				{
+					"fomTidspunkt": "2023-02-21T08:18:58.941+01:00",
+					"kjennemerke": "EF 49897",
+					"kjennemerkekategori": "KJORETOY",
+					"kjennemerketype": {
+						"kodeBeskrivelse": "Sorte tegn p\u00e5 hvit bunn",
+						"kodeNavn": "Ordin\u00e6re kjennemerker",
+						"kodeVerdi": "ORDINART",
+						"tidligereKodeVerdi": []
+					}
+				}
+			],
+			"registrering": {
+				"fomTidspunkt": "2023-02-21T08:18:58.941+01:00",
+				"kjoringensArt": {
+					"kodeBeskrivelse": "Annen egentransport.",
+					"kodeNavn": "Egentransport",
+					"kodeVerdi": "EGENTRANSP_ANNEN",
+					"tidligereKodeVerdi": []
+				},
+				"neringskode": "45.310",
+				"neringskodeBeskrivelse": "Agentur- og engroshandel med deler og utstyr til motorvogner, unntatt motorsykler",
+				"registreringsstatus": {
+					"kodeBeskrivelse": "Registrert",
+					"kodeVerdi": "REGISTRERT",
+					"tidligereKodeVerdi": []
+				},
+				"registrertForstegangPaEierskap": "2023-02-21T08:18:58.941+01:00"
+			},
+			"godkjenning": {
+				"forstegangsGodkjenning": {
+					"forstegangRegistrertDato": "2023-02-21",
+					"fortollingOgMva": {
+						"beskrivelse": "GB Q8 E-TRON 55 S LINE PLUS Y11GB AKT.NR 020939901 2023-012AK 1 20KK STK 20MK ADR 21MK ADR 21",
+						"fortollingsreferanse": "4440012300058031",
+						"linje": 14
+					},
+					"godkjenningsId": "6510222",
+					"godkjenningsundertype": {
+						"kodeNavn": "COC",
+						"kodeVerdi": "COC",
+						"tidligereKodeVerdi": []
+					},
+					"gyldigFraDato": "2023-02-21",
+					"gyldigFraDatoTid": "2023-02-21T06:31:16+01:00",
+					"unntak": []
+				},
+				"kjoretoymerknad": [
+					{
+						"merknad": "Egenvekt og nyttelast er veiledende - avhengig av utstyr",
+						"merknadtypeKode": "TYPEGODKJENNINGSMERKNAD"
+					}
+				],
+				"registreringsbegrensninger": {
+					"registreringsbegrensning": []
+				},
+				"tekniskGodkjenning": {
+					"godkjenningsId": "6510222",
+					"godkjenningsundertype": {
+						"kodeNavn": "COC",
+						"kodeVerdi": "COC",
+						"tidligereKodeVerdi": []
+					},
+					"gyldigFraDato": "2023-02-21",
+					"gyldigFraDatoTid": "2023-02-21T06:31:16+01:00",
+					"kjoretoyklassifisering": {
+						"beskrivelse": "Personbil",
+						"efTypegodkjenning": {
+							"typegodkjenningNrTekst": "e1*2007/46*1914*19",
+							"typegodkjenningnummer": {
+								"direktiv": "2007/46",
+								"land": "e1",
+								"serie": "1914",
+								"utvidelse": "19"
+							},
+							"variant": "XBM1JAQ1",
+							"versjon": "QE1QE1G1Z01RT11B210GAAEM0"
+						},
+						"kjoretoyAvgiftsKode": {
+							"kodeBeskrivelse": "Personbil, unntatt ambulanse",
+							"kodeNavn": "Personbil",
+							"kodeVerdi": "101",
+							"tidligereKodeVerdi": []
+						},
+						"nasjonalGodkjenning": {
+							"nasjonaltGodkjenningsAr": "2022",
+							"nasjonaltGodkjenningsHovednummer": "7386",
+							"nasjonaltGodkjenningsUndernummer": "045"
+						},
+						"spesielleKjennetegn": "",
+						"tekniskKode": {
+							"kodeBeskrivelse": "Bil for persontransport med h\u00f8yst 8 sitteplasser i tillegg til f\u00f8rersetet (Personbil)",
+							"kodeNavn": "Personbil",
+							"kodeVerdi": "M1",
+							"tidligereKodeVerdi": []
+						},
+						"tekniskUnderkode": {
+							"kodeVerdi": "INGENKODE",
+							"tidligereKodeVerdi": []
+						},
+						"iSamsvarMedTypegodkjenning": true
+					},
+					"krav": [
+						{
+							"kravomrade": {
+								"kodeBeskrivelse": "Avgiftsklassifisering",
+								"kodeVerdi": "AVGIFTSKLASSIFISERING_00",
+								"tidligereKodeVerdi": []
+							},
+							"kravoppfyllelse": {
+								"kodeBeskrivelse": "Forskrift om engangsavgift og avgiftsvedtak",
+								"kodeVerdi": "KRAV_1",
+								"tidligereKodeVerdi": []
+							}
+						}
+					],
+					"tekniskeData": {
+						"akslinger": {
+							"akselGruppe": [
+								{
+									"akselListe": {
+										"aksel": [
+											{
+												"antallHjul": 2,
+												"avstandTilNesteAksling": 2928,
+												"drivAksel": true,
+												"id": 1,
+												"plasseringAksel": "1",
+												"sporvidde": 1686,
+												"styreAksel": true,
+												"tekniskTillattAkselLast": 1535
+											}
+										]
+									},
+									"id": 1,
+									"plasseringAkselGruppe": "1",
+									"tekniskTillattAkselGruppeLast": 1535
+								},
+								{
+									"akselListe": {
+										"aksel": [
+											{
+												"antallHjul": 2,
+												"drivAksel": true,
+												"id": 2,
+												"plasseringAksel": "2",
+												"sporvidde": 1688,
+												"styreAksel": false,
+												"tekniskTillattAkselLast": 1730
+											}
+										]
+									},
+									"id": 2,
+									"plasseringAkselGruppe": "2",
+									"tekniskTillattAkselGruppeLast": 1730
+								}
+							],
+							"antallAksler": 2
+						},
+						"bremser": {
+							"abs": true,
+							"tilhengerBremseforbindelse": []
+						},
+						"dekkOgFelg": {
+							"akselDekkOgFelgKombinasjon": [
+								{
+									"akselDekkOgFelg": [
+										{
+											"akselId": 1,
+											"belastningskodeDekk": "109",
+											"dekkdimensjon": "255/50R20",
+											"felgdimensjon": "9.0JX20",
+											"hastighetskodeDekk": "H",
+											"innpress": "38",
+											"tvilling": false
+										},
+										{
+											"akselId": 2,
+											"belastningskodeDekk": "109",
+											"dekkdimensjon": "255/50R20",
+											"felgdimensjon": "9.0JX20",
+											"hastighetskodeDekk": "H",
+											"innpress": "38",
+											"tvilling": false
+										}
+									]
+								},
+								{
+									"akselDekkOgFelg": [
+										{
+											"akselId": 1,
+											"belastningskodeDekk": "109",
+											"dekkdimensjon": "255/50R20 M+S",
+											"felgdimensjon": "9.0JX20",
+											"hastighetskodeDekk": "H",
+											"innpress": "38",
+											"tvilling": false
+										},
+										{
+											"akselId": 2,
+											"belastningskodeDekk": "109",
+											"dekkdimensjon": "255/50R20 M+S",
+											"felgdimensjon": "9.0JX20",
+											"hastighetskodeDekk": "H",
+											"innpress": "38",
+											"tvilling": false
+										}
+									]
+								},
+								{
+									"akselDekkOgFelg": [
+										{
+											"akselId": 1,
+											"belastningskodeDekk": "111",
+											"dekkdimensjon": "255/55R19",
+											"felgdimensjon": "8.5JX19",
+											"hastighetskodeDekk": "H",
+											"innpress": "36",
+											"tvilling": false
+										},
+										{
+											"akselId": 2,
+											"belastningskodeDekk": "111",
+											"dekkdimensjon": "255/55R19",
+											"felgdimensjon": "8.5JX19",
+											"hastighetskodeDekk": "H",
+											"innpress": "36",
+											"tvilling": false
+										}
+									]
+								},
+								{
+									"akselDekkOgFelg": [
+										{
+											"akselId": 1,
+											"belastningskodeDekk": "111",
+											"dekkdimensjon": "255/55R19 M+S",
+											"felgdimensjon": "8.0JX19",
+											"hastighetskodeDekk": "H",
+											"innpress": "34",
+											"tvilling": false
+										},
+										{
+											"akselId": 2,
+											"belastningskodeDekk": "111",
+											"dekkdimensjon": "255/55R19 M+S",
+											"felgdimensjon": "8.0JX19",
+											"hastighetskodeDekk": "H",
+											"innpress": "34",
+											"tvilling": false
+										}
+									]
+								},
+								{
+									"akselDekkOgFelg": [
+										{
+											"akselId": 1,
+											"belastningskodeDekk": "106",
+											"dekkdimensjon": "265/40R22",
+											"felgdimensjon": "9.5JX22",
+											"hastighetskodeDekk": "H",
+											"innpress": "36",
+											"tvilling": false
+										},
+										{
+											"akselId": 2,
+											"belastningskodeDekk": "106",
+											"dekkdimensjon": "265/40R22",
+											"felgdimensjon": "9.5JX22",
+											"hastighetskodeDekk": "H",
+											"innpress": "36",
+											"tvilling": false
+										}
+									]
+								},
+								{
+									"akselDekkOgFelg": [
+										{
+											"akselId": 1,
+											"belastningskodeDekk": "108",
+											"dekkdimensjon": "265/45R21",
+											"felgdimensjon": "9.5JX21",
+											"hastighetskodeDekk": "H",
+											"innpress": "36",
+											"tvilling": false
+										},
+										{
+											"akselId": 2,
+											"belastningskodeDekk": "108",
+											"dekkdimensjon": "265/45R21",
+											"felgdimensjon": "9.5JX21",
+											"hastighetskodeDekk": "H",
+											"innpress": "36",
+											"tvilling": false
+										}
+									]
+								},
+								{
+									"akselDekkOgFelg": [
+										{
+											"akselId": 1,
+											"belastningskodeDekk": "108",
+											"dekkdimensjon": "265/45R21",
+											"felgdimensjon": "9.5JX21",
+											"hastighetskodeDekk": "H",
+											"innpress": "36",
+											"tvilling": false
+										},
+										{
+											"akselId": 2,
+											"belastningskodeDekk": "108",
+											"dekkdimensjon": "265/45R21",
+											"felgdimensjon": "9.5JX21",
+											"hastighetskodeDekk": "H",
+											"innpress": "36",
+											"tvilling": false
+										}
+									]
+								}
+							]
+						},
+						"dimensjoner": {
+							"bredde": 1937,
+							"hoyde": 1621,
+							"lengde": 4915
+						},
+						"generelt": {
+							"fabrikant": [
+								{
+									"fabrikantNavn": "AUDI AG"
+								}
+							],
+							"handelsbetegnelse": [
+								"Q8 55 E TRON"
+							],
+							"merke": [
+								{
+									"merke": "AUDI",
+									"merkeKode": "1230"
+								}
+							],
+							"tekniskKode": {
+								"kodeBeskrivelse": "Bil for persontransport med h\u00f8yst 8 sitteplasser i tillegg til f\u00f8rersetet (Personbil)",
+								"kodeNavn": "Personbil",
+								"kodeVerdi": "M1",
+								"tidligereKodeVerdi": []
+							},
+							"typebetegnelse": "GE"
+						},
+						"karosseriOgLasteplan": {
+							"antallDorer": [
+								4
+							],
+							"dorUtforming": [],
+							"karosseritype": {
+								"kodeBeskrivelse": "Stasjonsvogn ISO-standard 3833:1977, def. nr. 3.1.1.4",
+								"kodeNavn": "Stasjonsvogn (AC)",
+								"kodeTypeId": "TEKNISKEDATA.KAROSSERITYPE",
+								"kodeVerdi": "AC",
+								"tidligereKodeVerdi": []
+							},
+							"kjennemerketypeBak": {
+								"kodeBeskrivelse": "Stort smalt",
+								"kodeNavn": "Stort smalt",
+								"kodeTypeId": "TEKNISKEDATA.KJENNEMERKESTORRELSE",
+								"kodeVerdi": "SS",
+								"tidligereKodeVerdi": []
+							},
+							"kjennemerkestorrelseBak": {
+								"kodeBeskrivelse": "Stort smalt",
+								"kodeNavn": "Stort smalt",
+								"kodeTypeId": "TEKNISKEDATA.KJENNEMERKESTORRELSE",
+								"kodeVerdi": "SS",
+								"tidligereKodeVerdi": []
+							},
+							"kjennemerketypeForan": {
+								"kodeBeskrivelse": "Stort smalt",
+								"kodeNavn": "Stort smalt",
+								"kodeTypeId": "TEKNISKEDATA.KJENNEMERKESTORRELSE",
+								"kodeVerdi": "SS",
+								"tidligereKodeVerdi": []
+							},
+							"kjennemerkestorrelseForan": {
+								"kodeBeskrivelse": "Stort smalt",
+								"kodeNavn": "Stort smalt",
+								"kodeTypeId": "TEKNISKEDATA.KJENNEMERKESTORRELSE",
+								"kodeVerdi": "SS",
+								"tidligereKodeVerdi": []
+							},
+							"kjoringSide": "HOYRE",
+							"oppbygningUnderstellsnummer": "??????GE?????????",
+							"plasseringAvDorer": {
+								"kodeBeskrivelse": "4 sided\u00f8rer",
+								"kodeNavn": "4 sided\u00f8rer",
+								"kodeTypeId": "TEKNISKEDATA.PLASSERINGDORER",
+								"kodeVerdi": "4_SIDE",
+								"tidligereKodeVerdi": []
+							},
+							"plasseringFabrikasjonsplate": [
+								{
+									"kodeBeskrivelse": "Bagasjerom",
+									"kodeNavn": "Bagasjerom",
+									"kodeTypeId": "TEKNISKEDATA.PLASSERINGMERKING",
+									"kodeVerdi": "BAGASJEROM",
+									"tidligereKodeVerdi": []
+								}
+							],
+							"plasseringUnderstellsnummer": [
+								{
+									"kodeBeskrivelse": "Motorrom - H\u00f8yre",
+									"kodeNavn": "Motorrom - h\u00f8yre",
+									"kodeTypeId": "TEKNISKEDATA.PLASSERINGMERKING",
+									"kodeVerdi": "MOTORROM_HOYRE",
+									"tidligereKodeVerdi": []
+								},
+								{
+									"kodeBeskrivelse": "Instrumentpanel",
+									"kodeNavn": "Instrumentpanel",
+									"kodeTypeId": "TEKNISKEDATA.PLASSERINGMERKING",
+									"kodeVerdi": "INSTRUMENTPANEL",
+									"tidligereKodeVerdi": []
+								}
+							],
+							"rFarge": [
+								{
+									"kodeNavn": "Gr\u00e5",
+									"kodeTypeId": "TEKNISKEDATA.KAROSSERIFARGE",
+									"kodeVerdi": "05",
+									"tidligereKodeVerdi": []
+								}
+							]
+						},
+						"miljodata": {
+							"euroKlasse": {
+								"kodeBeskrivelse": "Euro 6L - EF 715/2007*EF 459/2012 (med bokstavene N til ZC)",
+								"kodeNavn": "Euro 6L - EF 715/2007*EF 459/2012 (med bokstavene N til ZC)",
+								"kodeTypeId": "TEKNISKEDATA.AVGASSKODE",
+								"kodeVerdi": "6L",
+								"tidligereKodeVerdi": []
+							},
+							"miljoOgdrivstoffGruppe": [
+								{
+									"drivstoffKodeMiljodata": {
+										"kodeBeskrivelse": "Elektrisk",
+										"kodeNavn": "Elektrisk",
+										"kodeTypeId": "TEKNISKEDATA.DRIVSTOFFTYPE",
+										"kodeVerdi": "5",
+										"tidligereKodeVerdi": []
+									},
+									"forbrukOgUtslipp": [
+										{
+											"malemetode": {
+												"kodeBeskrivelse": "WLTP",
+												"kodeNavn": "MALEMETODETYPE_WLTP",
+												"kodeTypeId": "MALEMETODETYPE",
+												"kodeVerdi": "WLTP",
+												"tidligereKodeVerdi": []
+											},
+											"wltpKjoretoyspesifikk": {
+												"rekkeviddeKmBlandetkjoring": 515,
+												"elEnergiforbruk": 230
+											}
+										}
+									],
+									"lyd": {
+										"kjorestoy": 67,
+										"stoyMalingOppgittAv": {
+											"kodeBeskrivelse": "Produsent",
+											"kodeNavn": "Produsent",
+											"kodeTypeId": "TEKNISKEDATA.KILDE_STOYMALING",
+											"kodeVerdi": "1",
+											"tidligereKodeVerdi": []
+										}
+									}
+								}
+							],
+							"okoInnovasjon": false
+						},
+						"motorOgDrivverk": {
+							"girkassetype": {
+								"kodeBeskrivelse": "Automat",
+								"kodeNavn": "Automat",
+								"kodeTypeId": "TEKNISKEDATA.GIRKASSETYPE",
+								"kodeVerdi": "A",
+								"tidligereKodeVerdi": []
+							},
+							"girutvekslingPrGir": [],
+							"hybridKategori": {
+								"kodeBeskrivelse": "Ingen eller ikke relevant",
+								"kodeNavn": "Ingen",
+								"kodeTypeId": "TEKNISKEDATA.HYBRIDKATEGORI",
+								"kodeVerdi": "INGEN",
+								"tidligereKodeVerdi": []
+							},
+							"maksimumHastighet": [
+								200
+							],
+							"maksimumHastighetMalt": [],
+							"motor": [
+								{
+									"arbeidsprinsipp": {
+										"kodeBeskrivelse": "Elektrisk",
+										"kodeNavn": "Elektrisk",
+										"kodeTypeId": "TEKNISKEDATA.ARBEIDSPRINSIPP",
+										"kodeVerdi": "ELEKTRISK",
+										"tidligereKodeVerdi": []
+									},
+									"drivstoff": [
+										{
+											"drivstoffKode": {
+												"kodeBeskrivelse": "Elektrisk",
+												"kodeNavn": "Elektrisk",
+												"kodeTypeId": "TEKNISKEDATA.DRIVSTOFFTYPE",
+												"kodeVerdi": "5",
+												"tidligereKodeVerdi": []
+											},
+											"maksEffektPrTime": 70.0,
+											"maksNettoEffekt": 141.0
+										}
+									],
+									"motorKode": "EAS"
+								},
+								{
+									"arbeidsprinsipp": {
+										"kodeBeskrivelse": "Elektrisk",
+										"kodeNavn": "Elektrisk",
+										"kodeTypeId": "TEKNISKEDATA.ARBEIDSPRINSIPP",
+										"kodeVerdi": "ELEKTRISK",
+										"tidligereKodeVerdi": []
+									},
+									"drivstoff": [
+										{
+											"drivstoffKode": {
+												"kodeBeskrivelse": "Elektrisk",
+												"kodeNavn": "Elektrisk",
+												"kodeTypeId": "TEKNISKEDATA.DRIVSTOFFTYPE",
+												"kodeVerdi": "5",
+												"tidligereKodeVerdi": []
+											},
+											"maksEffektPrTime": 95.0,
+											"maksNettoEffekt": 172.0
+										}
+									],
+									"motorKode": "EDE"
+								}
+							]
+						},
+						"ovrigeTekniskeData": [],
+						"persontall": {
+							"sitteplassListe": {
+								"sitteplass": [
+									{
+										"beltestrammer": true
+									}
+								]
+							},
+							"sitteplasserForan": 2,
+							"sitteplasserTotalt": 5
+						},
+						"tilhengerkopling": {
+							"kopling": []
+						},
+						"vekter": {
+							"egenvekt": 2673,
+							"egenvektMinimum": 2510,
+							"nyttelast": 432,
+							"tillattTilhengervektMedBrems": 1800,
+							"tillattTilhengervektUtenBrems": 750,
+							"tillattTotalvekt": 3180,
+							"tillattVertikalKoplingslast": 80,
+							"tillattVogntogvekt": 4980,
+							"vogntogvektAvhBremsesystem": []
+						}
+					},
+					"unntak": []
+				},
+				"tilleggsgodkjenninger": []
+			},
+			"periodiskKjoretoyKontroll": {
+				"kontrollfrist": "2027-02-21"
+			}
+		}
+	]
+}
