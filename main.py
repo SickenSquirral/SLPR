@@ -44,7 +44,7 @@ ssl._create_default_https_context = ssl._create_unverified_context
 modelpath=f'detect.tflite'
 lblpath='labelmap.txt'
 min_conf=0.3
-cap = cv2.VideoCapture(0)
+cap = cv2.VideoCapture(1)
 cap.set(cv2.CAP_PROP_FRAME_WIDTH, 992)
 cap.set(cv2.CAP_PROP_FRAME_HEIGHT, 558)
 
