@@ -1,0 +1,1 @@
+Produktet skal, uten noen innvirkning fra brukeren, se bilen foran sitt bilskilt, hente informasjon om bilen knyttet til bilskiltet med et API og presentere dette på en skjerm i et brukervennlig grensesnitt.
